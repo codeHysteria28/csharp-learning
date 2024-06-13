@@ -1,0 +1,15 @@
+/Users/wizcat/Desktop/appinnovation/c#_learning/TestProject/bin/Debug/net8.0/TestProject
+/Users/wizcat/Desktop/appinnovation/c#_learning/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/Users/wizcat/Desktop/appinnovation/c#_learning/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/Users/wizcat/Desktop/appinnovation/c#_learning/TestProject/bin/Debug/net8.0/TestProject.dll
+/Users/wizcat/Desktop/appinnovation/c#_learning/TestProject/bin/Debug/net8.0/TestProject.pdb
+/Users/wizcat/Desktop/appinnovation/c#_learning/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wizcat/Desktop/appinnovation/c#_learning/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/Users/wizcat/Desktop/appinnovation/c#_learning/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/Users/wizcat/Desktop/appinnovation/c#_learning/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/wizcat/Desktop/appinnovation/c#_learning/TestProject/obj/Debug/net8.0/TestProject.sourcelink.json
+/Users/wizcat/Desktop/appinnovation/c#_learning/TestProject/obj/Debug/net8.0/TestProject.dll
+/Users/wizcat/Desktop/appinnovation/c#_learning/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/Users/wizcat/Desktop/appinnovation/c#_learning/TestProject/obj/Debug/net8.0/TestProject.pdb
+/Users/wizcat/Desktop/appinnovation/c#_learning/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/Users/wizcat/Desktop/appinnovation/c#_learning/TestProject/obj/Debug/net8.0/ref/TestProject.dll
